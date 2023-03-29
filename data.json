@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"java",
+        "email":"java@test.com",
+        "mobile":123
+    },
+    {
+        "id":2,
+        "name":"js",
+        "email":"js@test.com",
+        "mobile":123
+    },
+    {
+        "id":3,
+        "name":"cpp",
+        "email":"cpp@test.com",
+        "mobile":123
+    },
+    {
+        "id":4,
+        "name":"node",
+        "email":"node@test.com",
+        "mobile":123
+    }
+]
